@@ -1,7 +1,7 @@
 **# Natural-Language-Database-Query-Assistant**
 ChatSQL DB is an interactive project that connects natural language with MySQL databases. It allows users to query their data in plain English without writing SQL commands. Powered by LangChain, it translates human language into SQL queries behind the scenes. A simple yet effective tool to make database interactions smarter and user-friendly.
 
-**🦜 Chat with SQL Database using LangChain**
+**Chat with SQL Database using LangChain**
 
 **📌 Project Overview**
 
@@ -11,8 +11,7 @@ The results are fetched from either a local SQLite database (student.db) or a My
 
 The project also includes a Streamlit UI where users can chat with the database directly.
 
-**🚀 Features
-**
+**Features**
 Query SQL databases in natural language.
 
 Supports SQLite (local student.db) and MySQL.
@@ -23,7 +22,7 @@ Simple Streamlit-based chat interface.
 
 Configurable with Groq API key for LLM responses.
 
-📂 Project Structure
+**📂 Project Structure**
 
 ChatSQL-Assistant/
 │── app.py              # Main Streamlit app (chat interface)  
