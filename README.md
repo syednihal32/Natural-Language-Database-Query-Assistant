@@ -49,7 +49,7 @@ Groq LLM (LLaMA3)
 **⚙️ Setup Instructions**
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/ChatSQL-Assistant.git
+git clone https://github.com/syednihal32/Natural-Language-Database-Query-Assistant.git
 cd ChatSQL-Assistant
 
 2️⃣ Install Dependencies
